@@ -1,15 +1,12 @@
 import setuptools
 
-
-with open("README.md", "r") as fh:
-    long_description = fh.read()
 setuptools.setup(
     name="django2_semantic_ui",
     version="1.2.2",
     author="Franklin Sarmiento",
     author_email="franklinitiel@gmail.com",
     description="Library to easy install, configure and use Semantic UI framework with Django project (Python 3.x)",
-    long_description=long_description,
+    long_description="Removing Long description",
     long_description_content_type="text/markdown",
     url="https://github.com/franklintiel/django2-semantic-ui/wiki",
     license="MIT",
